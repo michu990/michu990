@@ -2,6 +2,19 @@
 **michu990/michu990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+```javascript
+class Intexpression {
+  skills = ["None"];
+  get currentlyLearning() {
+    return "Everything";
+  }
+  constructor(pronouns) {
+    this.pronouns = pronouns;
+  }
+}
+let me = new Intexpression("He" || "Him" || "His");
+```
+
 🖥️
 
 [![My OS](https://skillicons.dev/icons?i=debian,arch,ubuntu,kali,windows)](https://skillicons.dev)
