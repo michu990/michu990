@@ -1,16 +1,21 @@
-## Hi there 👋
-
 <!--
 **michu990/michu990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+🖥️
+
+[![My OS](https://skillicons.dev/icons?i=debian,arch,ubuntu,kali,windows)](https://skillicons.dev)
+
+🗣️
+
+[![My Languages](https://skillicons.dev/icons?i=bash,python,c,cs,cpp,html,php,css,js,mysql)](https://skillicons.dev)
+
+🤹
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,arduino,raspberrypi,autocad,matlab,vscode,docker,kubernetes,ansible,)](https://skillicons.dev)
+
+✉️
+
+[![My Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+
+![](https://komarev.com/ghpvc/?username=michu990)
