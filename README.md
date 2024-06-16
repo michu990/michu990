@@ -3,7 +3,7 @@
 -->
 
 ```javascript
-class Intexpression {
+class michu990 {
   skills = ["None"];
   get currentlyLearning() {
     return "Everything";
@@ -12,7 +12,7 @@ class Intexpression {
     this.pronouns = pronouns;
   }
 }
-let me = new Intexpression("He" || "Him" || "His");
+let me = new michu990("He" || "Him" || "His");
 ```
 
 🖥️
